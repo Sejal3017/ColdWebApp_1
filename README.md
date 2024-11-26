@@ -41,10 +41,8 @@
 </table>
 
 
-## License
-
 Copyright © 2024 Sejal Raju Bhanushali.  
-This project is MIT-licensed.
+
 
 ## Acknowledgments
 
